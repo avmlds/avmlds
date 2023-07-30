@@ -80,7 +80,7 @@
 
 ###
 
-<p align="left">Throughout my journey, data engineering and machine learning have been areas of profound interest. Building data pipelines that seamlessly process and analyze vast volumes of information exhilarates me. I relish the opportunity to design and implement robust, scalable applications that harness the potential of data to drive insights and informed decision-making.</p>
+<p align="left">Throughout my journey, data engineering and machine learning have been areas of particular interest. I look for opportunities to design and implement robust, scalable applications that harness the potential of data to drive insights and informed decision-making.</p>
 
 ###
 
@@ -124,7 +124,7 @@
 
 ###
 
-<p align="left">Looking ahead, my journey continues to unfold with an unwavering curiosity for new challenges. As I progress in my career, I am fueled by a relentless desire to push the boundaries of what's possible. My interest in data engineering and infrastructure remains undiminished, and I eagerly seek opportunities to build applications that deliver impactful insights and drive transformative change.</p>
+<p align="left">As I progress in my career, I am fueled by curiosity for new challenges and a desire to push the boundaries of what's possible. My interest in data engineering and infrastructure remains strong, and I eagerly seek opportunities to build applications that deliver impactful insights and drive transformative change.</p>
 
 ###
 
