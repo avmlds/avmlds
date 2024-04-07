@@ -3,14 +3,14 @@
 ###
 
 <div align="left">
-  <a href="https://linkedin.com/in/alexlopatnikov/" target="_blank">
+  <a href="https://www.linkedin.com/in/alexlopatnikov/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
   </a>
 </div>
 
 ###
 
-<p align="left">An aspiring technophile and code enthusiast, with a passion for creating innovative solutions and driving positive change through technology. Having explored diverse realms of software development and made significant contributions, my journey is a testament to the power of collaboration, continuous learning, and dedication to excellence.</p>
+<p align="left">An aspiring technophile and code enthusiast, with a passion for creating innovative solutions and driving positive change through technology.</p>
 
 ###
 
@@ -72,19 +72,7 @@
 
 ###
 
-<h3 align="left">Recent Endeavors:</h3>
-
-###
-
-<p align="left">I am currently a valued member of a forward-thinking company that specializes in building cloud infrastructure. As part of an exceptional team, we are entrusted with the responsibility of developing and maintaining a Kubernetes SaaS (Software as a Service) platform. In this dynamic role, I thrive in the challenges presented by the ever-evolving cloud landscape, ensuring that our Kubernetes offerings meet the highest standards of performance, scalability, and security.</p>
-
-###
-
-<p align="left">Throughout my journey, data engineering and machine learning have been areas of particular interest. I look for opportunities to design and implement robust, scalable applications that harness the potential of data to drive insights and informed decision-making.</p>
-
-###
-
-<h3 align="left">Passion for Positive Change:</h3>
+<h3 align="left">Some of my projects:</h3>
 
 ###
 
@@ -108,35 +96,5 @@
 
 ###
 
-<p align="left">Open-source contributions are close to my heart, and I have crafted two telegram bots available on GitHub. The first focuses on English learning, providing free educational resources and tools to facilitate language learning worldwide. The second bot is dedicated to well-being, tracking moods and offering valuable insights through interactive charts, promoting self-awareness and personal growth. Deploying both bots on cloud virtual machines showcases my end-to-end project development and deployment capabilities. Do not hesitate to check them out and submit a pull request. Source code is available in my repositories. Let's make our world a better place to live!<br><br>https://t.me/BehavioralTrackerBot<br>https://t.me/FastLangLearnBot</p>
+<p align="left">I have crafted two telegram bots available on GitHub. The first focuses on English learning, providing free educational resources and tools to help learning languages. The second bot is dedicated to well-being, tracking moods and offering valuable insights through interactive charts, promoting self-awareness and personal growth. Deploying both bots on cloud virtual machines showcases my end-to-end project development and deployment capabilities. Do not hesitate to check them out and submit a pull request. Source code is available in my repositories. <br><br>https://t.me/BehavioralTrackerBot<br>https://t.me/FastLangLearnBot</p>
 
-###
-
-<h4 align="left">Driving Positive Change through Environmental Hackathons</h4>
-
-###
-
-<p align="left">Beyond my professional work, I was actively engaged in hackathons centered around environmental challenges. Notable examples include WildHack by CROC, where I contributed to a computer vision solution for accurate fish population counting, and the Emergency Data Hack, where I helped build a predictive model to identify high-risk areas for car accidents. Additionally, in the Makeathon by American Center, our team developed a solution to aid in detecting and protecting homeless animals in urban areas, reflecting my dedication to leveraging technology for the betterment of our planet.</p>
-
-###
-
-<h3 align="left">Future Prospects</h3>
-
-###
-
-<p align="left">As I progress in my career, I am fueled by curiosity for new challenges and a desire to push the boundaries of what's possible. My interest in data engineering and infrastructure remains strong, and I eagerly seek opportunities to build applications that deliver impactful insights and drive transformative change.</p>
-
-###
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=avmlds&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5" height="150" alt="streak graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=avmlds&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
-</div>
-
-###
-
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/avmlds/avmlds/output/snake.svg" alt="Snake animation" />
-
-###
